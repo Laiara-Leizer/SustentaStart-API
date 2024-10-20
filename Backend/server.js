@@ -1,5 +1,5 @@
 const express = require('express');
-const Objeto = require("./Objects/objeto");
+const Objeto = require("./Objects/caixa");
 
 const app = express();
 const port = 6969;
